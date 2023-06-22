@@ -13,5 +13,5 @@ Na tela de exibição os botões para navegar antes e depois mudam as informaç�
 E um botão aleatório mostra personagens sem ordem definida.
 
 
-# Adptações
+### Adptações
 Daniel mpm
